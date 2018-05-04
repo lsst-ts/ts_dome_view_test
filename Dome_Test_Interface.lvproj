@@ -17,6 +17,7 @@
 			<Item Name="telemetryEvents.ctl" Type="VI" URL="../typedefs/telemetryEvents.ctl"/>
 		</Item>
 		<Item Name="SALLV_dome.lvlib" Type="Library" URL="../SALLV_dome/SALLV_dome.lvlib"/>
+		<Item Name="SALLV_domeADB.lvlib" Type="Library" URL="../SALLV_domeADB/SALLV_domeADB.lvlib"/>
 		<Item Name="SAL_Events.lvclass" Type="LVClass" URL="../SALEvents/SAL_Events.lvclass"/>
 		<Item Name="SAL_Listener.lvclass" Type="LVClass" URL="../SALListener/SAL_Listener.lvclass"/>
 		<Item Name="View.lvclass" Type="LVClass" URL="../View/View.lvclass"/>
