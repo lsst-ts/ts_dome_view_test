@@ -1,10 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="16008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-S!!!*Q(C=\:2";C.(&amp;)&lt;`#9&amp;E[RM-IE]Q&gt;9!19JA47-P!T-!\1!PC842C&amp;N:K:DNPEU!&lt;&lt;;Q$;'&amp;%FA0CE7G]^R&amp;CMB/9\DB@F]LS:''0)1FEE3I^&gt;&gt;@`PXLVK&lt;L55GZ@3V`KZH/.R&amp;H8&lt;;6_L/V-/4L%;S3.];PR&gt;58&lt;TG&lt;6:&amp;&lt;FO"Z864&gt;IPQX_OFX2.FT7G^5O&gt;L?L*POL45^'3];NHQ&gt;X0J-X[\ZN.XN`M[OZ^^?&lt;)&lt;`&gt;__PW%Z^"OWJTF2O+%/N6P`\,`(N;=Y&amp;@.]Q`&lt;:L_N$H^W/2IG[&lt;ZC.J?00T\[_R0OZKWG(4V&gt;&amp;HHY(&lt;#J=\VKXL2^X8&gt;V9PJL6`X$!&lt;`^_QT?4HJOW[Z^R@4PP\5HS[(`'\P4\LOTJ^WD)&lt;R=E'2);:V0[XPVL_X0?B4N@U\]``X(_&gt;PG`M&lt;`P&lt;CI@;9P`@LTS&lt;^SUV[IO&amp;&amp;2!4BB"&amp;*AX54[)%?[)%?[)(O[)\O[)\O[)ZO[):O[):O[);?U".[1E`I#4WBZYYO&gt;+%,H6U*&amp;A]7#II'"9*E5"2]"4Q"4]!4]$"5Q"0Q"$Q"4]"$CA+?A#@A#8A#(K9JY!FY!J[!*_#B6#;*X.(B#8AI,Y@(Y8&amp;Y("[(BS8F]$A!TG*/9;=)'(*-Z]&lt;B=8A=(G\F]$A]$I`$Y`"AS_&amp;R?"Q?B]@B95L?&amp;=]U1U?(BT)S?!Q?A]@A-8AI,90(Y$&amp;Y$"[$B_6E]"A]"I3RI&amp;%=""G4D!2D90!90&amp;RE]"A]"I`"9`"AZ3&gt;E?7='GK'DQZ0A3@!E?")]#2Z++-'4Y%HQ*(A30*26AC@"E_"*]#2Y7%I*HA20AC="EFC5Z:5IFJC93%I)#2Y__&lt;3E`*1]E[4=J8*Y61[FSG&amp;4/51KBU0FI;M]4*7(J,,Z+JOKMFEKG[$SYV3A67"5&amp;F':0#4KCO^,YJQY)_&lt;%-8&amp;%(")DYG#9_A]H8FV&gt;[@,S5O@HZTI\/^.]0N@R]&lt;'/DIZU?(CIU7CEAY-$X&lt;;H^&amp;V\=PN??DOKPJU`K\Z\`Y.^?0P^SQ^P`HBV]O&lt;86S=`P?N08EN@`5R/^M=PHW@`R]&amp;`M@?*&lt;]LV54(5_W8`8PIPP"PVB8&lt;8`2\^#;&lt;D^XI!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
+<Library LVVersion="15008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+I!!!*Q(C=\:9R&lt;BMR%%7`AQ"*&amp;_A'FC,!"ZAL[!K[14!(W%;NCR1K8"E'AKE#O.1&amp;6#B!3D&gt;4K&gt;=66!61O8F,5&lt;)+;Z5!$J$#QRVK_9==PC7JR5L&amp;0ELPV6YS^&gt;G/_(D=NO.^V@U?+[\&gt;OIOXSW7\0&amp;4,9]8V7/*&amp;[9O8&amp;H9G`F*__C_@]\?(`#6*7^IH]8/W@`\G]&lt;SN_Z_`W@-V4&gt;M=KO:9=?X(&amp;[5P8FL9G@B,_?H@0/&gt;P$`F,EL;U4_,H&lt;0`]Z_/8RL`&amp;8S/_[T^`OX7@`=H@_`:CJX^MUJ7[&amp;R'??/#/G\J1G_C*HOC*HOC*(OC"(OC"(OC"\OC/\OC/\OC/&lt;OC'&lt;OC'&lt;OC'8AK[U)5O&gt;&amp;9FG4S:+%G;*%A[A[+E3HA3HI1HY;'JB#@B38A3HI3(,EJY%J[%*_&amp;*?"CGB#@B38A3HI3(6)5E3U'(*_%BP1+?A#@A#8A#(K:5Q"-!"*-&amp;C9-E9#A)"D="4]!4](#LA#@A#8A#HI#(M!+?A#@A#8A#(I;569F#UR6U?%ADB]@B=8A=(I?(V(*Y("[(R_&amp;R?*B/$I`$YU!Y%TL*1:!TS/HA."Q?BY=@/4Q/D]0D]$A]B-I/?6G:DK9L[0!90!;0Q70Q'$SEE-&amp;D]"A]"I`"1VI:0!;0Q70Q'$R-*90(Y$&amp;Y$""D5K;8E=Q9;(1S")/(KZQ7+\M5B=2+E?LB64W5KI&gt;.^2#J(A\646@&gt;4.6.5FV]V56683T626"^/&amp;6I62D6361(&gt;RWVJ&gt;\A+XS"T`%:0M5H_!A@&gt;%.@O?.WO^6GM^&amp;KN&gt;*CM&gt;"]0N&gt;M.N.U/N6E-N&amp;I..*A-$B_4FR4^H:V?#`&gt;=H`X:@DZ`G&amp;Y-]?``BL?X$^=0^V^_`&amp;%\..X_P4&amp;]1^`YVW_H]@XUP`Q&lt;N1\N3?@9;T2&lt;[*^^&gt;Y!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="DataTypes" Type="Folder">
-		<Item Name=".ctl" Type="VI" URL="../DataTypes/.ctl"/>
 		<Item Name="ackcmd.ctl" Type="VI" URL="../DataTypes/ackcmd.ctl"/>
 		<Item Name="command.ctl" Type="VI" URL="../DataTypes/command.ctl"/>
 		<Item Name="command_Crawl.ctl" Type="VI" URL="../DataTypes/command_Crawl.ctl"/>
@@ -132,30 +131,6 @@
 	<Item Name="domeADB_cancelCallback_logEvent_SummaryState.vi" Type="VI" URL="../VIs/domeADB_cancelCallback_logEvent_SummaryState.vi"/>
 	<Item Name="domeADB_cancelCallback_status.vi" Type="VI" URL="../VIs/domeADB_cancelCallback_status.vi"/>
 	<Item Name="domeADB_checkCallbacks.vi" Type="VI" URL="../VIs/domeADB_checkCallbacks.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_AccelerationLimitReached.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_AccelerationLimitReached.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_AccelerationLimitSubsided.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_AccelerationLimitSubsided.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_AppliedSettingsMatchStart.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_AppliedSettingsMatchStart.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_BrakeDisengaged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_BrakeDisengaged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_BrakeEngaged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_BrakeEngaged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_DriveDisabled.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_DriveDisabled.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_DriveEnabled.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_DriveEnabled.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_DriveFault.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_DriveFault.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_DriveOverTemp.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_DriveOverTemp.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_DriveReady.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_DriveReady.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_EchoResponse.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_EchoResponse.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_ErrorCode.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_ErrorCode.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_LockingPinDisengaged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_LockingPinDisengaged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_LockingPinEngaged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_LockingPinEngaged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_MotionModeChanged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_MotionModeChanged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_RotationEnabled.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_RotationEnabled.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_RotationPrevented.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_RotationPrevented.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_SettingVersions.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_SettingVersions.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_SpeedLimitReached.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_SpeedLimitReached.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_SpeedLimitSubsided.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_SpeedLimitSubsided.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_StateChanged.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_StateChanged.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_SubsystemError.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_SubsystemError.vi"/>
-	<Item Name="domeADB_flushSamplesEvent_SummaryState.vi" Type="VI" URL="../VIs/domeADB_flushSamplesEvent_SummaryState.vi"/>
-	<Item Name="domeADB_getCurrentTime.vi" Type="VI" URL="../VIs/domeADB_getCurrentTime.vi"/>
 	<Item Name="domeADB_getEvent_AccelerationLimitReached.vi" Type="VI" URL="../VIs/domeADB_getEvent_AccelerationLimitReached.vi"/>
 	<Item Name="domeADB_getEvent_AccelerationLimitSubsided.vi" Type="VI" URL="../VIs/domeADB_getEvent_AccelerationLimitSubsided.vi"/>
 	<Item Name="domeADB_getEvent_AppliedSettingsMatchStart.vi" Type="VI" URL="../VIs/domeADB_getEvent_AppliedSettingsMatchStart.vi"/>
@@ -230,19 +205,6 @@
 	<Item Name="domeADB_logEvent_StateChanged.vi" Type="VI" URL="../VIs/domeADB_logEvent_StateChanged.vi"/>
 	<Item Name="domeADB_logEvent_SubsystemError.vi" Type="VI" URL="../VIs/domeADB_logEvent_SubsystemError.vi"/>
 	<Item Name="domeADB_logEvent_SummaryState.vi" Type="VI" URL="../VIs/domeADB_logEvent_SummaryState.vi"/>
-	<Item Name="domeADB_monitorCommand_Crawl.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_Crawl.vi"/>
-	<Item Name="domeADB_monitorCommand_Echo.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_Echo.vi"/>
-	<Item Name="domeADB_monitorCommand_Move.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_Move.vi"/>
-	<Item Name="domeADB_monitorCommand_SetValue.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_SetValue.vi"/>
-	<Item Name="domeADB_monitorCommand_VelocityMove.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_VelocityMove.vi"/>
-	<Item Name="domeADB_monitorCommand_abort.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_abort.vi"/>
-	<Item Name="domeADB_monitorCommand_disable.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_disable.vi"/>
-	<Item Name="domeADB_monitorCommand_enable.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_enable.vi"/>
-	<Item Name="domeADB_monitorCommand_enterControl.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_enterControl.vi"/>
-	<Item Name="domeADB_monitorCommand_exitControl.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_exitControl.vi"/>
-	<Item Name="domeADB_monitorCommand_standby.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_standby.vi"/>
-	<Item Name="domeADB_monitorCommand_start.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_start.vi"/>
-	<Item Name="domeADB_monitorCommand_stop.vi" Type="VI" URL="../VIs/domeADB_monitorCommand_stop.vi"/>
 	<Item Name="domeADB_putSample_status.vi" Type="VI" URL="../VIs/domeADB_putSample_status.vi"/>
 	<Item Name="domeADB_registerCallback_ackcmd.vi" Type="VI" URL="../VIs/domeADB_registerCallback_ackcmd.vi"/>
 	<Item Name="domeADB_registerCallback_command_.vi" Type="VI" URL="../VIs/domeADB_registerCallback_command_.vi"/>
@@ -297,19 +259,6 @@
 	<Item Name="domeADB_registerCallback_logEvent_SubsystemError.vi" Type="VI" URL="../VIs/domeADB_registerCallback_logEvent_SubsystemError.vi"/>
 	<Item Name="domeADB_registerCallback_logEvent_SummaryState.vi" Type="VI" URL="../VIs/domeADB_registerCallback_logEvent_SummaryState.vi"/>
 	<Item Name="domeADB_registerCallback_status.vi" Type="VI" URL="../VIs/domeADB_registerCallback_status.vi"/>
-	<Item Name="domeADB_salCommander_Crawl.vi" Type="VI" URL="../VIs/domeADB_salCommander_Crawl.vi"/>
-	<Item Name="domeADB_salCommander_Echo.vi" Type="VI" URL="../VIs/domeADB_salCommander_Echo.vi"/>
-	<Item Name="domeADB_salCommander_Move.vi" Type="VI" URL="../VIs/domeADB_salCommander_Move.vi"/>
-	<Item Name="domeADB_salCommander_SetValue.vi" Type="VI" URL="../VIs/domeADB_salCommander_SetValue.vi"/>
-	<Item Name="domeADB_salCommander_VelocityMove.vi" Type="VI" URL="../VIs/domeADB_salCommander_VelocityMove.vi"/>
-	<Item Name="domeADB_salCommander_abort.vi" Type="VI" URL="../VIs/domeADB_salCommander_abort.vi"/>
-	<Item Name="domeADB_salCommander_disable.vi" Type="VI" URL="../VIs/domeADB_salCommander_disable.vi"/>
-	<Item Name="domeADB_salCommander_enable.vi" Type="VI" URL="../VIs/domeADB_salCommander_enable.vi"/>
-	<Item Name="domeADB_salCommander_enterControl.vi" Type="VI" URL="../VIs/domeADB_salCommander_enterControl.vi"/>
-	<Item Name="domeADB_salCommander_exitControl.vi" Type="VI" URL="../VIs/domeADB_salCommander_exitControl.vi"/>
-	<Item Name="domeADB_salCommander_standby.vi" Type="VI" URL="../VIs/domeADB_salCommander_standby.vi"/>
-	<Item Name="domeADB_salCommander_start.vi" Type="VI" URL="../VIs/domeADB_salCommander_start.vi"/>
-	<Item Name="domeADB_salCommander_stop.vi" Type="VI" URL="../VIs/domeADB_salCommander_stop.vi"/>
 	<Item Name="domeADB_salEvent_AccelerationLimitReached.vi" Type="VI" URL="../VIs/domeADB_salEvent_AccelerationLimitReached.vi"/>
 	<Item Name="domeADB_salEvent_AccelerationLimitSubsided.vi" Type="VI" URL="../VIs/domeADB_salEvent_AccelerationLimitSubsided.vi"/>
 	<Item Name="domeADB_salEvent_AppliedSettingsMatchStart.vi" Type="VI" URL="../VIs/domeADB_salEvent_AppliedSettingsMatchStart.vi"/>
@@ -360,5 +309,6 @@
 	<Item Name="domeADB_waitForCompletion_standby.vi" Type="VI" URL="../VIs/domeADB_waitForCompletion_standby.vi"/>
 	<Item Name="domeADB_waitForCompletion_start.vi" Type="VI" URL="../VIs/domeADB_waitForCompletion_start.vi"/>
 	<Item Name="domeADB_waitForCompletion_stop.vi" Type="VI" URL="../VIs/domeADB_waitForCompletion_stop.vi"/>
+	<Item Name="domeADBgetCurrentTime.vi" Type="VI" URL="../VIs/domeADBgetCurrentTime.vi"/>
 	<Item Name="domeADBshminitFlags.vi" Type="VI" URL="../VIs/domeADBshminitFlags.vi"/>
 </Library>

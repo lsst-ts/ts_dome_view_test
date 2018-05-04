@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="16008000">
+<Project Type="Project" LVVersion="15008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -26,6 +26,22 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
+			<Item Name="dome_salCommander_CloseShutter.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_CloseShutter.vi"/>
+			<Item Name="dome_salCommander_Crawl.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_Crawl.vi"/>
+			<Item Name="dome_salCommander_Move.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_Move.vi"/>
+			<Item Name="dome_salCommander_OpenShutter.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_OpenShutter.vi"/>
+			<Item Name="dome_salCommander_Park.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_Park.vi"/>
+			<Item Name="dome_salCommander_SetLouvers.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_SetLouvers.vi"/>
+			<Item Name="dome_salCommander_SetValue.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_SetValue.vi"/>
+			<Item Name="dome_salCommander_StopShutter.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_StopShutter.vi"/>
+			<Item Name="dome_salCommander_abort.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_abort.vi"/>
+			<Item Name="dome_salCommander_disable.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_disable.vi"/>
+			<Item Name="dome_salCommander_enable.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_enable.vi"/>
+			<Item Name="dome_salCommander_enterControl.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_enterControl.vi"/>
+			<Item Name="dome_salCommander_exitControl.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_exitControl.vi"/>
+			<Item Name="dome_salCommander_standby.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_standby.vi"/>
+			<Item Name="dome_salCommander_start.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_start.vi"/>
+			<Item Name="dome_salCommander_stop.vi" Type="VI" URL="../SALLV_dome/VIs/dome_salCommander_stop.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
